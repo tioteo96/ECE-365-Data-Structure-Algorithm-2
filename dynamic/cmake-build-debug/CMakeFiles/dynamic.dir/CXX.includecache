@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/DSA2(C++)/dynamic/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+locale
+-
+cstdio
+-
+cctype
+-
+cstring
+-
+

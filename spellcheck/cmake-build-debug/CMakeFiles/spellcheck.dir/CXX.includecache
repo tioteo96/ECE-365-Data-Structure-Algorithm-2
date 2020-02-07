@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/DSA2(C++)/spellcheck/hash.cpp
+iostream
+-
+hash.h
+/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/DSA2(C++)/spellcheck/hash.h
+
+/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/DSA2(C++)/spellcheck/hash.h
+vector
+-
+string
+-
+
+/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/DSA2(C++)/spellcheck/main.cpp
+hash.h
+/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/DSA2(C++)/spellcheck/hash.h
+iostream
+-
+fstream
+-
+string
+-
+ctime
+-
+vector
+-
+locale
+-
+cctype
+-
+
